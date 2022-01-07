@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+   --background: #e9e8eb; 
+   --orange:rgb(235, 138, 73);
+   --gray:#333131;
+}
+
+body{
+    font-family: Roboto, sans-serif;
+    background: var(--background);
+}
+
+a{
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
